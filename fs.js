@@ -10,3 +10,5 @@ const getFile = ()=>{
         
     })
 }
+
+getFile()
